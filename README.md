@@ -213,7 +213,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Safeguards
 
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard) - a collection of safety reasoning models built-upon gpt-oss
-- [Granite Guardian Models](https://huggingface.co/collections/ibm-granite/granite-guardian-models) - a collection of models created by IBM for safeguarding language models
+- [Granite Guardian](https://huggingface.co/collections/ibm-granite/granite-guardian) - a collection of safety models from IBM for detecting risks, toxicity, and hallucinations in LLM workflows
 - [Qwen3Guard](https://huggingface.co/collections/Qwen/qwen3guard-68d2729abbfae4716f3343a1) - a collection of safety moderation models built upon Qwen3
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NemoGuard](https://huggingface.co/collections/nvidia/nemoguard) - a collection of models from NVIDIA for content safety, topic-following and security guardrails
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-3-Content-Safety](https://huggingface.co/nvidia/Nemotron-3-Content-Safety) - a content-safety moderator from NVIDIA for both inputs to and responses from LLMs and VLMs
