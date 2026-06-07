@@ -391,7 +391,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/meta-pytorch/OpenEnv?style=social" height="17" align="texttop"/> [OpenEnv](https://github.com/meta-pytorch/OpenEnv) - an interface library for RL post training with environments
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17" align="texttop"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
 - <img src="https://img.shields.io/github/stars/radixark/miles?style=social" height="17" align="texttop"/> [miles](https://github.com/radixark/miles) - an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/garak?style=social" height="17" align="texttop"/> [Gym](https://github.com/NVIDIA-NeMo/gym) - evaluate and improve models and agents using environments
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/gym?style=social" height="17" align="texttop"/> [Gym](https://github.com/NVIDIA-NeMo/gym) - evaluate and improve models and agents using environments
 
 [Back to Table of Contents](#table-of-contents)
 
