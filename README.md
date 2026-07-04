@@ -514,6 +514,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 
 ### Miscellaneous
 
+- <img src="https://img.shields.io/github/stars/jamesob/local-llm?style=social" height="17" align="texttop"/> [local-llm](https://github.com/jamesob/local-llm) - everything jamesob knows about running LLMs locally
 - [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
 
 [Back to Table of Contents](#table-of-contents)
